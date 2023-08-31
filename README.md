@@ -3,6 +3,7 @@
 
 <h3 align="center">
   Welcome to Menna Reda's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 - 🏢 I'm a  student at Faculty of computers and artificial intelligence at cairo university
