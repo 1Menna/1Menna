@@ -2,16 +2,11 @@
   Welcome to Menna Reda's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-<a target="_blank" align="center">
-  <img align="right" top="400" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cs-student;Always%20Think%20out%20of%20the%20box&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a  student at Faculty of computers and artificial intelligence at cairo university
+- 🏢 I'm a 2nd student at Faculty of computers and artificial intelligence at cairo university
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
   
