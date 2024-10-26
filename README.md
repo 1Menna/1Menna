@@ -1,7 +1,6 @@
-<h3 align="center">
+<h1 align="center">
   The Difference Between Who You Are And Who You Want To Be Is What You Do
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cs-student;Always%20Think%20out%20of%20the%20box&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
