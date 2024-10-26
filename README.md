@@ -5,12 +5,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cs-student;Always%20Think%20out%20of%20the%20box&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a 2nd student at Faculty of computers and artificial intelligence at cairo university
+- 🏢 I'm a 3rd year student at Faculty of computers and artificial intelligence at cairo university
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
   
-- 💬 Ask me about my experience with python, cpp and problem solving.
-
 
 ### Connect with Me :
 
