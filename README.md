@@ -10,9 +10,7 @@
 </p>
 
  
-- 👨‍💻Driven and enthusiastic Computer Science student with a passion for innovation,
-continuous learning and exploring new technologies.
-I enjoy working on frontend development, solving challenging problems,and expanding my knowledge in various areas of computer science.
+### I am a driven and enthusiastic Computer Science student with a passion for innovation, continuous learning and exploring new technologies. I enjoy working on frontend development, solving challenging problems and expanding my knowledge in various areas of computer science.
   
 
 ## Connect with Me :
