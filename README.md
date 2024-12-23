@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/menna-reda-80066025a" target="_blank"><img src="https://img.shields.io/badge/-Menna%20Reda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### Technologies That I Know :
- 
+ <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 
  
 
