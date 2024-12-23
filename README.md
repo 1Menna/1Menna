@@ -1,18 +1,25 @@
 <h1 align="center">
-  The Difference Between Who You Are And Who You Want To Be Is What You Do
+  The Difference Between Who You Are And Who You Want To Be Is What You Do  
 </h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cs-student;Always%20Think%20out%20of%20the%20box&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
 
-- 🏢 I'm a 3rd year student at Faculty of computers and artificial intelligence at cairo university
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20science%20student;Frontend%20Developer;Problem%20Solver;font=Fira%20Code&center=true&width=440&height=45&color=FF69B4&vCenter=true&size=30&speed=300">
+  </a>
+</p>
+
+ 
+- 👨‍💻Driven and enthusiastic Computer Science student with a passion for innovation,
+continuous learning and exploring new technologies.
+I enjoy working on frontend development, solving challenging problems,and expanding my knowledge in various areas of computer science.
   
 
-### Connect with Me :
+## Connect with Me :
 
-<a href="https://www.linkedin.com/in/menna-reda-80066025a" target="_blank"><img src="https://img.shields.io/badge/-Menna%20Reda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/menna-reda-80066025a" target="_blank">
+   <img src="https://img.shields.io/badge/-Menna%20Reda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
 
 ### Programming languages That I Know :
 
