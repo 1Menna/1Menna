@@ -1,12 +1,18 @@
-<h1 align="center"> 
-  ✨ "The Difference Between Who You Are And Who You Want To Be Is What You Do" ✨
-</h1>
+<!-- Header Section -->
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Angular%20%7C%20Java%20Developer;Problem%20Solver;Fast%20Learner&center=true&width=500&height=45&color=FF69B4&vCenter=true&size=25&speed=40">
-  </a>
-</p>
+<!-- Big Gradient Banner with Name -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=80&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Menna+Reda" />
+
+<!-- Subtitle (your role) -->
+<h3 style="color:#704376; font-size: 1.8em;">🌐 Angular + Java Fullstack Developer</h3>  
+
+<!-- Stylish Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
+
+</div>
+
+
 
 ---
 
