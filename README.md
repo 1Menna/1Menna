@@ -5,22 +5,22 @@
 
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20science%20student;&center=true&width=440&height=45&color=FF69B4&vCenter=true&size=30&speed=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20science%20student;&center=true&width=440&height=45&color=FF69B4&vCenter=true&size=30&speed=40">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;&center=true&width=440&height=45&color=704376&vCenter=true&size=30&speed=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Angular%20and%20Java%20Developer;&center=true&width=440&height=45&color=704376&vCenter=true&size=30&speed=40">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem%20Solver;&center=true&width=440&height=45&color=639197&vCenter=true&size=30&speed=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem%20Solver;&center=true&width=440&height=45&color=639197&vCenter=true&size=30&speed=40">
   </a>
 </p>
 
  
-### I am a driven and enthusiastic Computer Science student with a passion for innovation, continuous learning and exploring new technologies. I enjoy working on frontend development, solving challenging problems and expanding my knowledge in various areas of computer science.
+### Motivated and fast-learning developer currently building skills in both Java backend and Angular frontend development. Gained hands-on experience with Angular during Banque Misr’s training program and am now expanding my expertise in Java and Spring Boot through self-study. Eager to apply my growing knowledge in fullstack development, with a strong focus on backend systems, APIs, and scalable application architect
   
 <hr>
 
@@ -42,14 +42,17 @@
 <hr>
 
 ## FrameWorks That I Know :
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/> 
+</a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> 
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-</a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/> 
 </a>
 
 <hr>
