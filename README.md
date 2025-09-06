@@ -2,19 +2,17 @@
 <div align="center">
 
 <!-- Big Gradient Banner with Name -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=80&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=115&lines=Menna+Reda" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=70&section=header&text=Menna%20Reda&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=60&font=Pacifico"/>
+
 
 <!-- Subtitle (your role) -->
-<h3 style="color:#704376; font-size: 1.8em;">🌐 Angular + Java Fullstack Developer</h3>  
+<h3 style="color:#704376; font-size: 1.8em;">🌐 Angular + Java Developer</h3>  
 
 <!-- Stylish Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
 
 </div>
 
-
-
----
 
 ### 👩‍💻 About Me  
 🌱 Motivated and fast-learning developer currently focusing on **Java backend** and **Angular frontend**.  
