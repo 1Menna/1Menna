@@ -6,7 +6,7 @@
 
 <!-- Subtitle (your role) -->
 <h3 style="color:#704376; font-size: 1.8em;">🌐 Angular + Java Fullstack Developer</h3>  
-
+c
 <!-- Stylish Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
 
