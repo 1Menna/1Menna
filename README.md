@@ -87,7 +87,12 @@
 - [**Back-End Learning Management System**](https://github.com/asmaatefomran/LearnSphere)  
 Backend system for an LMS, handling courses, users, and progress tracking.  
 *Tech: Spring Boot, Java, MySQL*  
-*Faculty course: Software Engineering*  
+*Faculty course: Software Engineering*
+
+ - [**Gomoku (Five in a Row) Game Solver**](https://github.com/1Menna/Gomoku-Five-in-a-Row-)  
+A Python-based AI that plays Gomoku using **Minimax** and **Alpha-Beta Pruning** algorithms.  
+*Tech: Python*  
+*Faculty course: AI*
 
 - [**CPU Schedulers Simulator**](https://github.com/SH-code12/CPU-Schedulers-Simulator)  
 A simulator for multiple CPU scheduling algorithms with a **Java-based interface**.  
