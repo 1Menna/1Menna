@@ -92,7 +92,13 @@ Backend system for an LMS, handling courses, users, and progress tracking.
  - [**Gomoku (Five in a Row) Game Solver**](https://github.com/1Menna/Gomoku-Five-in-a-Row-)  
 A Python-based AI that plays Gomoku using **Minimax** and **Alpha-Beta Pruning** algorithms.  
 *Tech: Python*  
-*Faculty course: AI*
+*Faculty course: problem solving / AI*
+
+- [**Simple Supervised ML Pipeline**](https://github.com/1Menna/Simple-Supervised-ML-Pipeline)  
+A Python-based notebook demonstrating a complete **supervised learning workflow**, including data preparation, model training with **KNN, SVM, and Logistic Regression**, and model evaluation using performance metrics.  
+*Tech: Python*  
+*HCIA course: Machine Learning / AI*
+
 
 - [**CPU Schedulers Simulator**](https://github.com/SH-code12/CPU-Schedulers-Simulator)  
 A simulator for multiple CPU scheduling algorithms with a **Java-based interface**.  
