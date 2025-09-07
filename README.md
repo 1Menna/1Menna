@@ -64,43 +64,56 @@
 
 ---
 
-## 📂 Featured Projects  
+## 🚀 Major Projects  
 
-### 🚀 Major Projects  
-
+ 
 - [**Banking System App**](https://github.com/1Menna/Banking-System-App_-Banque-Misr-GP)  
-  🎓 **Graduation project** from the Banque Misr internship.  
+ 🎓 **Graduation project** from Banque Misr internship.  
   Full-featured **Angular application** with role-based dashboards, routing, guards, lazy loading, and HTTP services.  
-  *Tech: Angular, TypeScript, REST API*  
+  *Tech: Angular, TypeScript, Rest API*  
+  *Banque Misr Internship: Angular*
 
-- [**"Offer" Ecommerce Website**](https://github.com/1Menna/Product_Categories_Angular)  
+ - [**"Offer" Ecommerce Website**](https://github.com/1Menna/Product_Categories_Angular)  
   An e-commerce platform built with **Angular**, featuring category-based product browsing.  
   *Tech: Angular, TypeScript*  
-
+  *Banque Misr Internship: Angular* 
+  
 - [**"Watch" Movies Website**](https://github.com/1Menna/Movies_Website)  
-  🎓 **Graduation project** from the React course at DEPI.  
+🎓 **Graduation project** from the React course at DEPI.  
   A movie browsing website built with **React**, featuring search and dynamic UI components.  
-  *Tech: React, JavaScript*  
+*Tech: React, JavaScript*  
+*DEPI course: React*
+  
+- [**Back-End Learning Management System**](https://github.com/asmaatefomran/LearnSphere)  
+Backend system for an LMS, handling courses, users, and progress tracking.  
+*Tech: Spring Boot, Java, MySQL*  
+*Faculty course: Software Engineering*  
 
 - [**CPU Schedulers Simulator**](https://github.com/SH-code12/CPU-Schedulers-Simulator)  
-  A simulator for multiple CPU scheduling algorithms with a **Java-based interface**.  
-  *Tech: Java*  
-
-- [**Back-End Learning Management System**](https://github.com/asmaatefomran/LearnSphere)  
-  Backend system for an LMS, handling courses, users, and progress tracking.  
-  *Tech: Spring Boot, Java, MySQL*  
+A simulator for multiple CPU scheduling algorithms with a **Java-based interface**.  
+*Tech: Java*  
+*Faculty course: Operating System*  
 
 - [**Command-Line Interpreter**](https://github.com/MalakHisham121/Command-Line-Interpreter)  
-  Custom **shell-like interpreter** supporting multiple commands.  
-  *Tech: Java*  
+Custom **shell-like interpreter** supporting multiple commands.  
+*Tech: Java*  
+*Faculty course: Operating System*  
 
 - [**Multithreaded Parking System Simulation**](https://github.com/SH-code12/Multithreaded-Parking-System-Simulation)  
-  Simulation of a **parking system** using concurrency and synchronization.  
-  *Tech: Java (Multithreading)*  
+Simulation of a **parking system** using concurrency and synchronization.  
+*Tech: Java (Multithreading)*  
+*Faculty course: Operating System*  
 
 - [**Paint Program Simulation**](https://github.com/SaraMoh0103/Paint-program-simulation)  
-  A basic drawing application supporting shapes, colors, and fill, built with **C++ graphics**.  
-  *Tech: C++ (Graphics)*  
+A basic drawing application supporting shapes, colors, and fill, built with **C++ graphics**.  
+*Tech: C++*  
+*Faculty course: Graphics*  
+
+- [**Filters to Your Black-White Images**](https://github.com/1Menna/Assignment-1oop)  
+Apply filters to black-and-white images.  
+*Tech: C++*  
+*Faculty course: OOP*  
+
 
 
 ---
