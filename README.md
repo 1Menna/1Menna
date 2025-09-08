@@ -69,61 +69,61 @@
  
 - [**Banking System App**](https://github.com/1Menna/Banking-System-App_-Banque-Misr-GP)  
  🎓 **Graduation project** from Banque Misr internship.  
-  Full-featured **Angular application** with role-based dashboards, routing, guards, lazy loading, and HTTP services.  
+  Full-featured Angular application with role-based dashboards, routing, guards, lazy loading, and HTTP services.  
   *Tech: Angular, TypeScript, Rest API*  
-  *Banque Misr Internship: Angular*
+  *Banque Misr Internship: **Angular***
 
  - [**"Offer" Ecommerce Website**](https://github.com/1Menna/Product_Categories_Angular)  
-  An e-commerce platform built with **Angular**, featuring category-based product browsing.  
+  An e-commerce platform built with Angular, featuring category-based product browsing.  
   *Tech: Angular, TypeScript*  
-  *Banque Misr Internship: Angular* 
+  *Banque Misr Internship: **Angular*** 
   
 - [**"Watch" Movies Website**](https://github.com/1Menna/Movies_Website)  
 🎓 **Graduation project** from the React course at DEPI.  
-  A movie browsing website built with **React**, featuring search and dynamic UI components.  
+  A movie browsing website built with React, featuring search and dynamic UI components.  
 *Tech: React, JavaScript*  
-*DEPI course: React*
+*DEPI course: **React***
   
 - [**Back-End Learning Management System**](https://github.com/asmaatefomran/LearnSphere)  
 Backend system for an LMS, handling courses, users, and progress tracking.  
 *Tech: Spring Boot, Java, MySQL*  
-*Faculty course: Software Engineering*
+*Faculty course: **Software Engineering (spring boot)***
 
  - [**Gomoku (Five in a Row) Game Solver**](https://github.com/1Menna/Gomoku-Five-in-a-Row-)  
 A Python-based AI that plays Gomoku using **Minimax** and **Alpha-Beta Pruning** algorithms.  
 *Tech: Python*  
-*Faculty course: problem solving / AI*
+*Faculty course: **problem solving / AI***
 
 - [**Simple Supervised ML Pipeline**](https://github.com/1Menna/Simple-Supervised-ML-Pipeline)  
 A Python-based notebook demonstrating a complete **supervised learning workflow**, including data preparation, model training with **KNN, SVM, and Logistic Regression**, and model evaluation using performance metrics.  
 *Tech: Python*  
-*HCIA course: Machine Learning / AI*
+*HCIA course: **Machine Learning / AI***
 
 
 - [**CPU Schedulers Simulator**](https://github.com/SH-code12/CPU-Schedulers-Simulator)  
 A simulator for multiple CPU scheduling algorithms with a **Java-based interface**.  
 *Tech: Java*  
-*Faculty course: Operating System*  
+*Faculty course: **Operating System (Java)***  
 
 - [**Command-Line Interpreter**](https://github.com/MalakHisham121/Command-Line-Interpreter)  
 Custom **shell-like interpreter** supporting multiple commands.  
 *Tech: Java*  
-*Faculty course: Operating System*  
+*Faculty course: **Operating System (Java)***  
 
 - [**Multithreaded Parking System Simulation**](https://github.com/SH-code12/Multithreaded-Parking-System-Simulation)  
 Simulation of a **parking system** using concurrency and synchronization.  
 *Tech: Java (Multithreading)*  
-*Faculty course: Operating System*  
+*Faculty course: **Operating System (Java)***  
 
 - [**Paint Program Simulation**](https://github.com/SaraMoh0103/Paint-program-simulation)  
-A basic drawing application supporting shapes, colors, and fill, built with **C++ graphics**.  
+A basic drawing application supporting shapes, colors, and fill, built with C++ graphics.  
 *Tech: C++*  
-*Faculty course: Graphics*  
+*Faculty course: **Graphics (c++)***  
 
 - [**Filters to Your Black-White Images**](https://github.com/1Menna/Assignment-1oop)  
 Apply filters to black-and-white images.  
 *Tech: C++*  
-*Faculty course: OOP*  
+*Faculty course: **OOP (c++)***  
 
 
 
