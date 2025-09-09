@@ -6,7 +6,7 @@
 
 
 <!-- Subtitle (your role) -->
-<h3 style="color:#704376; font-size: 1.8em;">🌐 Angular + Java Developer</h3>  
+<h2 style="color:#704376; font-size: 1.8em;">🌐 Angular + Java Developer</h2>  
 
 <!-- Stylish Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
@@ -14,53 +14,67 @@
 </div>
 
 
-### 👩‍💻 About Me  
-🌱 Motivated and fast-learning developer currently focusing on **Java backend** and **Angular frontend**.  
-🎓 Hands-on experience with Angular (Banque Misr Training).  
-📖 Currently expanding skills in **Spring Boot & Full-Stack Development**.  
-🚀 Interested in **APIs, scalable systems, and developer tools**.  
+## 👩‍💻 About Me  
+- Motivated and fast-learning developer currently focusing on **Java backend** and **Angular frontend**.  
+- Hands-on experience with Angular (Banque Misr Training).  
+- Currently expanding skills in **Spring Boot & Full-Stack Development**.  
+- Interested in **APIs, scalable systems, and developer tools**.  
 
 ---
 
-## 🌐 Connect with Me  
+ ## 🌐 How to Reach Me 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/menna-reda-80066025a" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn"/>
+        <br/>
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="meno903010@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail"/>
+        <br/>
+        <b>Email</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/Menna_Reda_" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="60" height="60" alt="Codeforces"/>
+        <br/>
+        <b>Codeforces</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+ ## 🌱 skills 
+ 
+ <p align="center">
+  <!-- Row 1 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
+</p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/menna-reda-80066025a" target="_blank">
-    <img src="https://img.shields.io/badge/-Menna%20Reda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/meno903010" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-FF69B0?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/>
 </p>
 
----
-
-## 🛠️ Skills  
-
-### 🚀 Programming Languages  
-<p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40"/> 
-</p>
-
-### ⚡ Frameworks & Libraries  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"/> 
-</p>
-
-### 🔧 Tools & Databases  
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/> 
-</p>
 
 ---
 
