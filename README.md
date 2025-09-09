@@ -13,13 +13,6 @@
 
 </div>
 
-
-## 👩‍💻 About Me  
-- Motivated and fast-learning developer currently focusing on **Java backend** and **Angular frontend**.  
-- Hands-on experience with Angular (Banque Misr Training).  
-- Currently expanding skills in **Spring Boot & Full-Stack Development**.  
-- Interested in **APIs, scalable systems, and developer tools**.  
-
 ---
 ## 📫 How to Reach Me
 
