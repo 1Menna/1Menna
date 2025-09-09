@@ -33,7 +33,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="meno903010@gmail.com" target="_blank">
+      <a href="mailto:meno903010@gmail.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail"/>
         <br/>
         <b>Email</b>
@@ -51,7 +51,7 @@
 
 ---
 
- ## 🌱 skills 
+ ## 🌱 Skills 
  
  <p align="center">
   <!-- Row 1 -->
