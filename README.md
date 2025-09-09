@@ -21,34 +21,11 @@
 - Interested in **APIs, scalable systems, and developer tools**.  
 
 ---
+## 📫 How to Reach Me
 
- ## 🌐 How to Reach Me 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/menna-reda-80066025a" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn"/>
-        <br/>
-        <b>LinkedIn</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:meno903010@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail"/>
-        <br/>
-        <b>Email</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://codeforces.com/profile/Menna_Reda_" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="60" height="60" alt="Codeforces"/>
-        <br/>
-        <b>Codeforces</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
+- **LinkedIn:** [Menna Reda](https://www.linkedin.com/in/menna-reda-80066025a)
+- **Email:** meno903010@gmail.com
+- **Codeforces:** [Menna_Reda_](https://codeforces.com/profile/Menna_Reda_)  
 ---
 
  ## 🌱 Skills 
