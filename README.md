@@ -5,8 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=70&section=header&text=Menna%20Reda&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=60&font=Pacifico"/>
 
 
-<!-- Subtitle (your role) -->
-<h2 style="color:#704376; font-size: 1.8em;">🌐 Angular + Java Developer</h2>  
 
 <!-- Stylish Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
