@@ -6,7 +6,7 @@
 
   <!-- Intro Section -->
   <p align="center" style="font-size:25px; line-height:1.6;">
-        👋 Hello, I am <b>Menna Reda</b>.<br/>
+        👋<h2> Hello, I am <b>Menna Reda</b>.</h2><br/>
         🌟 I started my journey by learning <b>Angular</b> and building dynamic, responsive web applications.<br/>
         💡 Now, I’m passionate about exploring the <b>backend</b> world with <b>Java & Spring Boot</b>.<br/>
         🚀 My aspiration is to become a <b>Full-Stack Developer</b>, crafting complete, scalable, and user-friendly solutions by combining both <b>frontend</b> and <b>backend</b> expertise.
