@@ -1,16 +1,22 @@
 <!-- Header Section -->
 <div align="center">
 
-<!-- Big Gradient Banner with Name -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=70&section=header&text=Menna%20Reda&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=60&font=Pacifico"/>
+<!-- Big Gradient Banner with Arabic Text (with Tashkeel) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=90&section=header&text=%D9%88%D9%8E%D9%82%D9%8F%D9%84%D9%92%20%D8%B1%D9%8E%D8%A8%D9%90%D9%91%20%D8%B2%D9%90%D8%AF%D9%92%D9%86%D9%90%D9%8A%20%D8%B9%D9%90%D9%84%D9%92%D9%85%D9%8B%D8%A7&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=60&font=Pacifico"/>
 
-<h2> Angular + Java Developer </h2>
-
-<!-- Stylish Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
-
+  <!-- Intro Section -->
+  <p align="center" style="font-size:18px; line-height:1.6;">
+        👋 Hello, I am <b>Menna Reda</b>.<br/>
+        🌟 I started my journey by learning <b>Angular</b> and building dynamic, responsive web applications.<br/>
+        💡 Now, I’m passionate about exploring the <b>backend</b> world with <b>Java & Spring Boot</b>.<br/>
+        🚀 My aspiration is to become a <b>Full-Stack Developer</b>, crafting complete, scalable, and user-friendly solutions by combining both <b>frontend</b> and <b>backend</b> expertise.
+  </p>
+  <!-- Stylish Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
 </div>
- 
+
+  
+
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [Menna Reda](https://www.linkedin.com/in/menna-reda-80066025a)
