@@ -64,15 +64,19 @@
  - [**"Offer" Ecommerce Website**](https://github.com/1Menna/Product_Categories_Angular)  
   An e-commerce platform built with Angular, featuring category-based product browsing.  
   *Tech: Angular, TypeScript*  
-  *Banque Misr Internship: **Angular*** 
-  
+  *Banque Misr Internship: **Angular***
+
 - [**"Watch" Movies Website**](https://github.com/1Menna/Movies_Website)  
 🎓 **Graduation project** from the React course at DEPI.  
   A movie browsing website built with React, featuring search and dynamic UI components.  
 *Tech: React, JavaScript*  
 *DEPI course: **React***
+
+- [**Products REST API with spring-boot**](https://github.com/1Menna/products-rest-api)  
+  A simple Spring Boot REST API for managing products with full CRUD operations.  
+  *self-study: Java, **Spring Boot**, Spring Data JPA, MySQL*  
   
-- [**Back-End Learning Management System**](https://github.com/asmaatefomran/LearnSphere)  
+- [**Back-End Learning Management System with spring-boot**](https://github.com/asmaatefomran/LearnSphere)  
 Backend system for an LMS, handling courses, users, and progress tracking.  
 *Tech: Spring Boot, Java, MySQL*  
 *Faculty course: **Software Engineering (spring boot)***
