@@ -73,13 +73,14 @@
 *DEPI course: **React***
 
 - [**Products REST API with spring-boot**](https://github.com/1Menna/products-rest-api)  
-  A simple Spring Boot REST API for managing products with full CRUD operations.  
-  *self-study: Java, **Spring Boot**, Spring Data JPA, MySQL*  
-  
+A simple Spring Boot REST API for managing products with full CRUD operations.  
+*Tech: Spring Boot, Java, MySQL*  
+*Self-study: **Spring boot***
+
 - [**Back-End Learning Management System with spring-boot**](https://github.com/asmaatefomran/LearnSphere)  
 Backend system for an LMS, handling courses, users, and progress tracking.  
 *Tech: Spring Boot, Java, MySQL*  
-*Faculty course: **Software Engineering (spring boot)***
+*Faculty course: **Software Engineering (Spring boot)***
 
  - [**Gomoku (Five in a Row) Game Solver**](https://github.com/1Menna/Gomoku-Five-in-a-Row-)  
 A Python-based AI that plays Gomoku using **Minimax** and **Alpha-Beta Pruning** algorithms.  
