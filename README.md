@@ -72,7 +72,7 @@
 *Tech: React, JavaScript*  
 *DEPI course: **React***
 
-- [**Products REST API with spring-boot**](https://github.com/1Menna/products-rest-api)  
+- [**Products REST API with spring-boot**](https://github.com/1Menna/products-rest-api-springboot)  
 A simple Spring Boot REST API for managing products with full CRUD operations.  
 *Tech: Spring Boot, Java, MySQL*  
 *Self-study: **Spring boot***
@@ -80,12 +80,12 @@ A simple Spring Boot REST API for managing products with full CRUD operations.
 - [**Route-Scheduling-System Rest API with Spring-Boot**](https://github.com/1Menna/Route-Scheduling-System---Spring-Boot-Backend)  
 Backend system for managing drivers, routes, and schedules with automatic assignment.  
 *Tech: Spring Boot, Java, MySQL*  
-*Internship task / Self-study: **Spring Boot***
+*Internship task: **Spring Boot***
 
 - [**Back-End Learning Management System with spring-boot**](https://github.com/asmaatefomran/LearnSphere)  
 Backend system for an LMS, handling courses, users, and progress tracking.  
 *Tech: Spring Boot, Java, MySQL*  
-*Faculty course: **Software Engineering (Spring boot)***
+*Faculty course: **Spring boot***
 
  - [**Gomoku (Five in a Row) Game Solver**](https://github.com/1Menna/Gomoku-Five-in-a-Row-)  
 A Python-based AI that plays Gomoku using **Minimax** and **Alpha-Beta Pruning** algorithms.  
