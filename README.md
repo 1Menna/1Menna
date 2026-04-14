@@ -5,12 +5,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=90&section=header&text=%D9%88%D9%8E%D9%82%D9%8F%D9%84%D9%92%20%D8%B1%D9%8E%D8%A8%D9%90%D9%91%20%D8%B2%D9%90%D8%AF%D9%92%D9%86%D9%90%D9%8A%20%D8%B9%D9%90%D9%84%D9%92%D9%85%D9%8B%D8%A7&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=60&font=Pacifico"/>
 
   <!-- Intro Section -->
-  <p align="center" style="font-size:50px; line-height:1.8;">
-        👋Hello, I am <b>Menna Reda</b>.<br/>
-        🌟 I started my journey by learning <b>Angular</b> and building dynamic, responsive web applications.<br/>
-        💡 Now, I’m passionate about exploring the <b>backend</b> world with <b>Java & Spring Boot</b>.<br/>
-        🚀 My aspiration is to become a <b>Full-Stack Developer</b>, crafting complete, scalable, and user-friendly solutions by combining both <b>frontend</b> and <b>backend</b> expertise.
+ <div align="center">
+  <h2 style="border-bottom: none; margin-bottom: 10px;">👋 Hello, I am <b>Menna Reda</b></h2>
+  <p style="font-size: 19px; line-height: 2; color: #333; font-style: italic;">
+    🌟 I started my journey by learning <b>Angular</b> and building dynamic, responsive web applications.<br/>
+    💡 Now, I’m exploring the <b>backend</b> world with <b>Java & Spring Boot</b>.<br/>
   </p>
+</div>
   <!-- Stylish Divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
 </div>
@@ -26,27 +27,10 @@
 
  ## 🌱 Skills 
  
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
-</p>
-
-<p align="center">
-  <!-- Row 2 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/>
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,py,cpp&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=spring,angular,react,django,git,github,mysql,postman&theme=dark" />
 </p>
 
 
