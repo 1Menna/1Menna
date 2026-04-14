@@ -10,20 +10,21 @@
   <p style="font-size: 19px; line-height: 2; color: #333; font-style: italic;">
     🌟 I started my journey by learning <b>Angular</b> and building dynamic, responsive web applications.<br/>
     💡 Now, I’m exploring the <b>backend</b> world with <b>Java & Spring Boot</b>.<br/>
-  </p>
+  </p> 
 </div>
-  <!-- Stylish Divider -->
+</div>
+
+<!-- Stylish Divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
-</div>
-
   
-
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [Menna Reda](https://www.linkedin.com/in/menna-reda-80066025a)
 - **Email:** meno903010@gmail.com
-- **Codeforces:** [Menna_Reda_](https://codeforces.com/profile/Menna_Reda_)  
----
+- **Codeforces:** [Menna_Reda_](https://codeforces.com/profile/Menna_Reda_)
+  
+<!-- Stylish Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
 
  ## 🌱 Skills 
  
@@ -33,8 +34,8 @@
   <img src="https://skillicons.dev/icons?i=spring,angular,react,django,git,github,mysql,postman&theme=dark" />
 </p>
 
-
----
+<!-- Stylish Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
 
 ## 🚀 Major Projects  
 
