@@ -4,9 +4,9 @@
  <div align="center">
   <h2 style="border-bottom: none; margin-bottom: 10px;">👋 Hello, I am <b>Menna Reda</b></h2>
   <p style="font-size: 19px; line-height: 2; color: #333; font-style: italic;">
-    🌟 I started my journey by learning <b>Angular</b> and building dynamic, responsive web applications.<br/>
-    💡 Now, I’m exploring the <b>backend</b> world with <b>Java & Spring Boot</b>.<br/>
-  </p> 
+    ⚙️ <b>Java Spring Developer</b> specialized in building backend systems.<br/>
+    💡 Also with Good knowledge of <b>Angular</b> for frontend.<br/>
+</p>
 </div>
 </div>
 
