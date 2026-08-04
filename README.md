@@ -2,13 +2,13 @@
 
   <!-- Intro Section -->
  <div align="center">
-  <h2 style="border-bottom: none; margin-bottom: 10px;">👋 Hello, I am <b>Menna Reda</b></h2>
-  <p style="font-size: 19px; line-height: 2; color: #333; font-style: italic;">
+  <h1 style="border-bottom: none; margin-bottom: 10px;">👋 Hello, I am <b>Menna Reda</b></h1>
+  <h4 style=" line-height: 2; color: #333; font-style: italic;">
     ⚙️ <b>Java Spring Developer</b> specialized in building backend systems.<br/>
     💡 Also with Good knowledge of <b>Angular</b> for frontend.<br/>
-</p>
+  </h4>
 </div>
-</div>
+
 
 <!-- Stylish Divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:704376&height=5&section=footer"/>
