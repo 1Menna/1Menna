@@ -3,10 +3,10 @@
   <!-- Intro Section -->
  <div align="center">
   <h1 style="border-bottom: none; margin-bottom: 10px;">👋 Hello, I am <b>Menna Reda</b></h1>
-  <h4 style=" line-height: 2; color: #333; font-style: italic;">
+  <h3 style=" line-height: 2; color: #333; font-style: italic;">
     ⚙️ <b>Java Spring Developer</b> specialized in building backend systems.<br/>
     💡 Also with Good knowledge of <b>Angular</b> for frontend.<br/>
-  </h4>
+  </h3>
 </div>
 
 
